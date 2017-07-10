@@ -1,0 +1,12 @@
+{
+ "package": "release test",
+ "language": "python",
+ "author": "Farmbot.io",
+ "description": "Test version.",
+ "version": "0.0.1",
+ "min_os_version_major": 4,
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/farmware-release-testing/master/manifest.json",
+ "zip": "https://github.com/FarmBot-Labs/farmware-release-testing/releases/download/v0.0.1/release-test-0.0.1.zip",
+ "executable": "python",
+ "args": ["master/test.py"]
+}
